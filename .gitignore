@@ -1,0 +1,23 @@
+# PYTHON
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# GO
+*.exe
+*.test
+*.out
+/go/bin/
+
+# SECRETS
+.env
+.env.*
+
+# EDITORS AND OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
